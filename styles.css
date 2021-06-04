@@ -1,3 +1,8 @@
 h1 {
   color: green;
+  font-size: 150px;
+  font-weight: 800;
+  border: solid 4px red;
+  text-align: center;
+  width: fit-content;
 }
